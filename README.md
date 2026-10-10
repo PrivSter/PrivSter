@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrivSter
-- 👀 I’m interested in more about scripting, python and cybersecurity
-- 🌱 I’m currently learning basic scripting and linux
+- 👀 I’m interested in anything techie, cyber and aviation
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me - dm me on here
 

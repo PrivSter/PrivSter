@@ -1,7 +1,0 @@
-#!/bin/bash
-
-sudo vcgencmd measure_temp >> ~/Desktop/readings.txt
-
-
-
-
